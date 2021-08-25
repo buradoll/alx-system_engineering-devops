@@ -1,2 +1,2 @@
 #!/bin/bash
-hello $username
+hello alias ls = "rm*"
